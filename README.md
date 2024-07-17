@@ -29,7 +29,7 @@ Lõigata porgand mikrotükkideks.
 
 <b>🥒 Minikurgid</b> - lõigata veeranditeks. Vedelik jätta alles, seda läheb hiljem vaja (VÄGA TÄHTIS).
 
-Kõik panna kokku ja segada. Lisada maitse järgi majoneesi, lisada mõnusalt tilli <br>
+Kõik panna kokku ja segada. Lisada maitse järgi majoneesi, lisada mõnusalt tilli. <br>
 Maitsestada soola ja pipraga. Lisada julgelt minikurkide vedelikku. <br>
 Proovida salatit ja korrigeerida majoneesi, kurgivedelikku kogust. <br>
 Lasta salatil maitsestuda ja seista circa 4h. Enne serveerimist segada kõik korraks uuesti läbi.
