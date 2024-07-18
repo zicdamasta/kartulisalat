@@ -33,3 +33,6 @@ Kõik panna kokku ja segada. Lisada maitse järgi majoneesi, lisada mõnusalt ti
 Maitsestada soola ja pipraga. Lisada julgelt minikurkide vedelikku. <br>
 Proovida salatit ja korrigeerida majoneesi, kurgivedelikku kogust. <br>
 Lasta salatil maitsestuda ja seista circa 4h. Enne serveerimist segada kõik korraks uuesti läbi.
+
+## AI genereeritud pilt kartulisalatist
+![Kartulisalat](media/kartulisalat.png)
