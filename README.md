@@ -1,14 +1,14 @@
 # Kartulisalat
 
 ## Koostisosad
-600g kartuleid <br>
+650g kartuleid (10tk muna suurused) <br>
 10tk M muna <br>
 400g lastevorsti <br>
 2 purki Põltsamaa minikurke <br>
-300g herneid <br>
+1 purk Bonduelle herneid (265g) <br>
 1 porgand <br>
 värske till <br>
-pravonsaal majonees <br>
+700g Majonees Provansaal Lemmik <br>
 sool & pipar <br>
 
 ## Valmistamine
@@ -30,7 +30,7 @@ Lõigata porgand mikrotükkideks.
 <b>🥒 Minikurgid</b> - lõigata veeranditeks. Vedelik jätta alles, seda läheb hiljem vaja (VÄGA TÄHTIS).
 
 Kõik panna kokku ja segada. Lisada maitse järgi majoneesi, lisada mõnusalt tilli. <br>
-Maitsestada soola ja pipraga. Lisada julgelt minikurkide vedelikku. <br>
+Maitsestada soola ja pipraga. Lisada julgelt minikurkide vedelikku (kogu vedelik, ÜHEST purgist, mis alles jäi) . <br>
 Proovida salatit ja korrigeerida majoneesi, kurgivedelikku kogust. <br>
 Lasta salatil maitsestuda ja seista circa 4h. Enne serveerimist segada kõik korraks uuesti läbi.
 
